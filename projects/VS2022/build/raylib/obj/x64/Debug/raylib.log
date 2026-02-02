@@ -1,0 +1,20 @@
+﻿  raudio.c
+  rcore.c
+  rmodels.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(60,9): warning C4005: 'MAX_PATH': macro redefinition
+  (compiling source file '../../../../../../../raylib/raylib/src/rcore.c')
+      C:\raylib\raylib\src\rcore.c(159,17):
+      see previous definition of 'MAX_PATH'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file '../../../../../../../raylib/raylib/src/rcore.c')
+      C:\raylib\raylib\src\external\glfw\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+  rglfw.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\etrig\Desktop\thefutureofmail\projects\VS2022\build\raylib\bin\x64\Debug\raylib.lib
