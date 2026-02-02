@@ -1,4 +1,0 @@
-﻿  thefutureofmail.c
-C:\Users\etrig\Desktop\thefutureofmail\src\thefutureofmail.c(70,25): warning C4013: 'Clamp' undefined; assuming extern returning int
-C:\Users\etrig\Desktop\thefutureofmail\src\thefutureofmail.c(70,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  thefutureofmail.vcxproj -> C:\Users\etrig\Desktop\thefutureofmail\projects\VS2022\build\thefutureofmail\bin\x64\Debug\thefutureofmail.exe
